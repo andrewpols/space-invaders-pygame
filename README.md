@@ -4,6 +4,7 @@
 - This program recreates the iconic Space Invaders game using Python and [Pygame](https://github.com/pygame/pygame).
 - Using [Pygbag](https://github.com/pygame-web/pygbag), a Python WebAssembly package, this code is available on non-local servers (it is ran through the index.html and apk file shown in the root directory).
 - The source code can be found in the src folder in the root directory (Note: The index.html file in the root directory is NOT part of the original souce code—it is built through Pygbag).
+- **Play now via [GitHub Pages](https://andrewpols.github.io/space-invaders-pygame/)**
 
 ## Aim of the Game
 - Starting with 3 lives, survive and kill all aliens!

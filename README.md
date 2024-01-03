@@ -1,5 +1,5 @@
 # Space Invaders
-![Screenshot 2024-01-03 at 3 00 31 AM](https://github.com/andrewpols/space-invaders-pygame/assets/139817202/7275c059-272c-4c69-9aa9-a4ae62b416b3)
+![Screenshot 2024-01-03 at 3 00 31 AM](https://github.com/andrewpols/space-invaders-pygame/assets/139817202/2c6334f8-713b-4cf9-818d-6cc1de4ef1f1)
 
 ## Background
 - This program recreates the iconic Space Invaders game using Python and [Pygame](https://github.com/pygame/pygame).

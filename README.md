@@ -16,3 +16,7 @@
 ## Controls
 - Move Left/Right: L/R Arrow Keys
 - Shoot: Spacebar
+
+## Troubleshooting
+- For some unknown reason, the game might slow down when your computer's battery is low (not to an unplayable amount).
+- If this does happen, plugging in the computer to a charger will fix the problem.
